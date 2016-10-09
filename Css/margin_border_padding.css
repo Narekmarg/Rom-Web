@@ -1,0 +1,10 @@
+
+div {
+	border: 5px solid maroon;
+	background: gold;
+	padding:300;
+}
+span {
+	margin: 60;
+	border: 2px dashed blue;
+}
